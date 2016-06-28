@@ -50,7 +50,7 @@ Transfers 10 units from account "a" to account "b".
 
 Returns the log of transactions in which this account participated.
 
-[{"time": "2016-06-28T09:55:22.426", "from": "a", "to": "b", "amount": 5}]
+`[{"time": "2016-06-28T09:55:22.426", "from": "a", "to": "b", "amount": 5}]`
 
 # Test assignment
 
